@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Jenil Patel",
+    "email": "jpate125@example.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Prit Patel",
+    "email": "pritp@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Milan Soni",
+    "email": "ms@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Ropin Patel",
+    "email": "rp@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-4.jpg",
+    "password": "password12345"
+  }  
+]
